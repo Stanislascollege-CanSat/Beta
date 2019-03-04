@@ -1,5 +1,5 @@
 /****************************
-  Beta Babycan MCU software.
+  Beta BabyCan MCU software.
 ****************************/
 
 void setup() {
